@@ -12,6 +12,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-  "express": "^4.x.x",
+  "express": "^4.x.x"
 }
 }
