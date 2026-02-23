@@ -7,12 +7,10 @@ import authRouter from "./routes/authRoutes.js";
 import userRouter from "./routes/userRoutes.js";
 
 
-
-
 const app = express();
 const PORT = process.env.PORT || 3000
 connectDB();
-const allowedOrigins = ['http://localhost:5173']
+const allowedOrigins = ['http://localhost:5173', 'https://mern-auth-eight-orpin.vercel.app/']
 
 
 app.use(express.json());    //to parse every request
