@@ -68,7 +68,7 @@ This project is fully deployed and demonstrates production-level authentication 
 ```
 mern-authentication-system/
 │
-├── backend/
+├── BACKEND/
 │   ├── config/
 │   ├── controllers/
 │   ├── middleware/
@@ -76,7 +76,7 @@ mern-authentication-system/
 │   ├── routes/
 │   └── server.js
 │
-├── frontend/
+├── FRONTEND/
 │   ├── src/
 │   │   ├── pages/
 │   │   ├── context/
