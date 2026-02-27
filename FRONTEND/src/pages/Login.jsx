@@ -22,7 +22,7 @@ const Login = () => {
         e.preventDefault();
         axios.defaults.withCredentials = true   //to send cookies also
         if(state === 'Sign Up'){
-          const {data} = await axios.post(`${backendUrl}/api/auth/register`, {name, email, password})
+          const {data} = await axios.post(backendUrl+'/api/auth/register', {name, email, password})
 
           if(data.success){
             setIsLoggedin(true)
@@ -32,7 +32,7 @@ const Login = () => {
             toast.error(error.message)
           }
         }else{
-          const {data} = await axios.post(`${backendUrl}/api/auth/login`, {email, password})
+          const {data} = await axios.post(backendUrl+'/api/auth/login', {email, password})
 
           if(data.success){
             setIsLoggedin(true)
@@ -43,7 +43,7 @@ const Login = () => {
           }
         }
       }catch(error){
-        toast.error(data.message)
+        toast.error(error.message)
       }
   }
 
