@@ -6,11 +6,6 @@ This project is fully deployed and demonstrates production-level authentication 
 
 ---
 
-## 🌍 Live Demo
-
-🔗  
-
----
 
 ## 🚀 Tech Stack
 
