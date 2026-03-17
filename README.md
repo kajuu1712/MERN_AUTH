@@ -136,5 +136,18 @@ Deployed on Render:
 - Environment variables configured
 - MongoDB Atlas used for cloud database
 
+## Screenshots
+<img width="1919" height="1029" alt="Screenshot 2026-03-17 212407" src="https://github.com/user-attachments/assets/23318c6f-1a85-44a4-abfc-a87bf37b6451" />
+<img width="1919" height="1017" alt="Screenshot 2026-03-17 212650" src="https://github.com/user-attachments/assets/ba5e7f25-b21d-442f-8e57-0756df46f366" />
+<img width="1907" height="1009" alt="Screenshot 2026-03-17 212716" src="https://github.com/user-attachments/assets/d07667a6-8d33-4c5d-8500-ff3675744952" />
+<img src="https://github.com/user-attachments/assets/2d1f68b7-64d4-4390-8762-744aa7cfffbd)" />
+<img width="1917" height="987" alt="Screenshot 2026-03-17 213201" src="https://github.com/user-attachments/assets/8fcfdce4-7d8e-4325-818f-365e2bfe4cdf" />
+<img width="1918" height="900" alt="Screenshot 2026-03-17 213220" src="https://github.com/user-attachments/assets/e778e909-0da9-417a-8b06-5bdc62f5f7bc" />
+<img width="1916" height="1023" alt="Screenshot 2026-03-17 212958" src="https://github.com/user-attachments/assets/9cbc32b6-f9c6-47e2-89e9-7195c68a1a95" />
+<img width="1890" height="1011" alt="Screenshot 2026-03-17 213033" src="https://github.com/user-attachments/assets/87a1bc5c-1da1-4109-a7e3-977ed45f7703" />
+<img width="1919" height="1018" alt="Screenshot 2026-03-17 213048" src="https://github.com/user-attachments/assets/2162d046-2de4-48f3-929c-b1f0c7b1eccb" />
+
+
+
 
 ---
