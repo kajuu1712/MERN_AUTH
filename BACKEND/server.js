@@ -15,7 +15,7 @@ const __dirname = path.dirname(__filename);
 const app = express();
 const PORT = process.env.PORT || 3000
 connectDB();
-const allowedOrigins = ['http://localhost:5173', 'https://main.d3tzjsl3x2rxm5.amplifyapp.com/']
+const allowedOrigins = ['http://localhost:5173']
 
 
 app.use(express.json());    //to parse every request
