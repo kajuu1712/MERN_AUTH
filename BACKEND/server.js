@@ -10,7 +10,7 @@ import userRouter from "./routes/userRoutes.js";
 const app = express();
 const PORT = process.env.PORT || 3000
 connectDB();
-const allowedOrigins = ['http://localhost:5173', 'https://main.dqeqjsweagfaz.amplifyapp.com/login']
+const allowedOrigins = ['http://localhost:5173', 'https://main.d3tzjsl3x2rxm5.amplifyapp.com/']
 
 
 app.use(express.json());    //to parse every request
